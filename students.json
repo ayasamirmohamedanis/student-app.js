@@ -1,0 +1,19 @@
+[
+  {
+    "id": 2,
+    "stName": "omar",
+    "degress": [30, 30, 30],
+    "comment": "best student ever",
+    "totalDegrees": 90
+  },
+  { "id": 1, "stName": "ahmed", "degress": [20, 30, 30], "totalDegrees": 80 },
+  { "id": 7, "stName": "asmaa", "degress": [20, 30, 10], "totalDegrees": 60 },
+  { "id": 6, "stName": "amira", "degress": [20, 10, 10], "totalDegrees": 40 },
+  {
+    "id": 5,
+    "stName": "aya",
+    "degress": [10, 20, 30],
+    "comment": "work hard",
+    "totalDegrees": 60
+  }
+]
